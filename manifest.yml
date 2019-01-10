@@ -1,8 +1,10 @@
+---
 applications:
 - name: dp-bandmanagement
-  memory: 512M
-  host: dp-bandmanagement
-  domain: eu-de.mybluemix.net
-  path: target
+  memory: 256M
+  routes:
+  - route: dp-bandmanagement.eu-de.mybluemix.net
+  path: app
+  timeout: 180
   env:
-    BAND : 'Disput'
+      BAND: disput
