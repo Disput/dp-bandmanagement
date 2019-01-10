@@ -3,5 +3,6 @@ applications:
   memory: 512M
   host: dp-bandmanagement
   domain: eu-de.mybluemix.net
+  buildpack: 'https://github.com/cloudfoundry/ibm-websphere-liberty-buildpack.git'
   env:
     BAND : 'Disput'
