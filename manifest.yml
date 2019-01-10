@@ -1,0 +1,7 @@
+applications:
+- name: dp-bandmanagement
+  memory: 1G
+  host: dp-bandmanagement
+  domain: eu-de.mybluemix.net
+  env:
+    BAND : 'Disput'
