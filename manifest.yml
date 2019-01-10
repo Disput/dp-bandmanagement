@@ -1,6 +1,6 @@
 applications:
 - name: dp-bandmanagement
-  memory: 1G
+  memory: 512M
   host: dp-bandmanagement
   domain: eu-de.mybluemix.net
   env:
