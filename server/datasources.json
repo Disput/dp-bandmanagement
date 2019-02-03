@@ -1,1 +1,1 @@
-{"db":{"name":"db","connector":"memory"}}
+{"db":{"name":"db","connector":"memory"},"cloudant":{"url":"https://21e3abc2-8b2f-4924-a7de-caead6aa9eab-bluemix:11afbb2e607396a679b32c0b7f098a4daa35384bed0ceeef445e31e4dd238da8@21e3abc2-8b2f-4924-a7de-caead6aa9eab-bluemix.cloudantnosqldb.appdomain.cloud","database":"data","username":"21e3abc2-8b2f-4924-a7de-caead6aa9eab-bluemix","password":"11afbb2e607396a679b32c0b7f098a4daa35384bed0ceeef445e31e4dd238da8","name":"cloudant","modelIndex":"","connector":"cloudant"}}
